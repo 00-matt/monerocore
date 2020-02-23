@@ -4,7 +4,7 @@
 
     <groupId>uk.offtopica</groupId>
     <artifactId>monerocore</artifactId>
-    <version>0.1.0</version>
+    <version>0.2.0-SNAPSHOT</version>
 
     <name>monerocore</name>
     <description>Pure Java Monero utilities</description>
@@ -20,7 +20,7 @@
         <url>https://github.com/00-matt/monerocore</url>
         <connection>scm:git:git://github.com/00-matt/monerocore.git</connection>
         <developerConnection>scm:git:git@github.com:00-matt/monerocore.git</developerConnection>
-        <tag>monerocore-0.1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
 
